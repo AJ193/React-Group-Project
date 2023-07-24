@@ -96,7 +96,7 @@ Run this command:
 
 ```sh
   cd my-folder
-  git clone https://github.com/kamranasif506/math-magician.git
+  git clone https://github.com/AJ193/React-Group-Project.git
 ```
 
 ### Install
@@ -140,6 +140,13 @@ You can deploy this project using github pages.
 - GitHub: [@githubhandle](https://github.com/kamranasif506)
 - Twitter: [@twitterhandle](https://twitter.com/kamiasif55)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kamran-asif-76160926b/)
+
+👤 **Ghulam Shabbir**
+
+- GitHub: [@AJ](https://github.com/AJ193)
+- Twitter: [@AJ](https://twitter.com/GhulamShabbir59)
+- LinkedIn: [@AJ](https://www.linkedin.com/in/ghulam-shabbir-225264247/)
+
 
 
 
